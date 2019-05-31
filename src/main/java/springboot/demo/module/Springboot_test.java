@@ -8,7 +8,11 @@ public class Springboot_test {
 
     @GetMapping("hello")
     public String getMessage(){
-        System.out.println("=======================");
+        System.out.println("==========2121=  1 sa============");
         return "hello world";
+    }
+
+    public static void main(String[] args) {
+
     }
 }
