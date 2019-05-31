@@ -25,7 +25,7 @@
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
         <dependency>
-            <!-- 设置tomcat只在编译和测试时运行 -->
+            <!-- 设置tomcat只在编译和测试时运 行 -->
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-tomcat</artifactId>
             <scope>provided</scope>
