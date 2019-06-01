@@ -9,6 +9,7 @@ public class Springboot_test {
     @GetMapping("hello")
     public String getMessage(){
         System.out.println("==========2121=  1 sa============");
+        System.out.println(1/0);
         return "七月的风,八月的雨!";
     }
 
